@@ -2,7 +2,7 @@
 
 ;; Author: Irakli Gozalishivili <rfobic@gmail.com>
 ;; URL: http://github.com/gozala/peep-open-emacs
-;; Version: 0.0.1
+;; Version: 0.0.2
 
 ;;;###autoload
 (defun peep-open ()
