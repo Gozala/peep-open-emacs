@@ -1,6 +1,6 @@
 ;;; peep-open.el --- PeepOpen plugin for emacs.
 
-;; Author: Irakli Gozalishivili <rfobic@gmail.com> (http://jeditoolkit.com)
+;; Author: Irakli Gozalishivili <rfobic@gmail.com>
 ;; URL: http://github.com/gozala/peep-open-emacs
 ;; Version: 0.0.1
 
